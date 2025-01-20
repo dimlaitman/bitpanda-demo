@@ -23,9 +23,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        <CryptoProvider>{children}</CryptoProvider>
+    <html lang="en" className="h-screen w-screen overflow-hidden">
+      <body className="flex items-center justify-center h-full w-full bg-black">
+        <div className="h-[700px] w-[400px]  rounded-xl shadow-lg overflow-hidden outline  outline-1 outline-zinc-500">
+          <CryptoProvider>{children}</CryptoProvider>
+        </div>
       </body>
     </html>
   );
