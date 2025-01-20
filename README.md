@@ -7,7 +7,7 @@
   <a href="https://www.quicknode.com/" target="blank"><img src="https://avatars.githubusercontent.com/u/53955811?s=200&v=4" width="50" alt="QuickNode Logo" /></a>
   <a href="https://swagger.io/" target="blank"><img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="50" alt="Swagger Logo" /></a>
   <a href="https://nextjs.org/" target="blank"><img src="https://nextjs.org/static/favicon/favicon.ico" width="50" alt="Next.js Logo" /></a>
-  <a href="https://privy.com/" target="blank"><img src="https://privy.com/favicon.ico" width="50" alt="Privy Logo" /></a>
+  <a href="https://privy.io/" target="blank"><img src="https://avatars.githubusercontent.com/u/81824329?s=200&v=4" width="50" alt="Privy Logo" /></a>
 </p>
 <!-- End of Selection -->
 
