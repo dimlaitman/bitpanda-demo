@@ -5,7 +5,9 @@
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "start:dev": "turbo dev --filter=web",
+    "start:dev:api": "turbo dev --filter=api"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
