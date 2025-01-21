@@ -50,4 +50,18 @@ I have chosen a Turborepo monorepo structure for its ability to seamlessly trans
 
 ### Installation and Development
 
-To get started, run the following commands:
+To get started, clone the repository and install the dependencies by running the following commands in your terminal:
+
+1. `git clone https://github.com/dimlaitman/bitpanda-demo`
+2. `cd bitpanda-demo`
+3. `pnpm install`
+
+After the installation is complete, you can start the development server with:
+
+<!-- Start of Selection -->
+
+- `pnpm dev` # Start the development server for the web application
+  or
+- `pnpm start:dev:api` # Start the development server for the API
+- `pnpm start:dev` # Start the development server for the Web App
+<!-- End of Selection -->
