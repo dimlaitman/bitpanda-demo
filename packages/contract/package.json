@@ -1,0 +1,21 @@
+{
+  "name": "@bitpanda-demo/contracts",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "dependencies": {
+    "@ts-rest/core": "^3.51.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@bitpanda-demo/eslint-config": "workspace:*",
+    "@bitpanda-demo/typescript-config": "workspace:*",
+    "@turbo/gen": "^1.12.4",
+    "@types/node": "^20.11.24",
+    "@types/react": "18.3.0",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.5.4"
+  }
+}

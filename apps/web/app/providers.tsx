@@ -2,12 +2,23 @@
 
 import { PrivyProvider } from "@privy-io/react-auth";
 import { toSolanaWalletConnectors } from "@privy-io/react-auth/solana";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { ReactNode } from "react";
+import { tsr } from "./helpers/tsr";
 
-export default function CryptoProvider({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+const queryClient = new QueryClient();
+
+export function Providers({ children }: { children: ReactNode }) {
+  return (
+    <QueryClientProvider client={queryClient}>
+      <tsr.ReactQueryProvider>
+        <CryptoProvider>{children}</CryptoProvider>
+      </tsr.ReactQueryProvider>
+    </QueryClientProvider>
+  );
+}
+
+function CryptoProvider({ children }: { children: React.ReactNode }) {
   const solanaConnectors = toSolanaWalletConnectors();
   return (
     <PrivyProvider

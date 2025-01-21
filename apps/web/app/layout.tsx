@@ -1,17 +1,8 @@
-import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
-import CryptoProvider from "./providers";
-import { PrimitiveMiddleware } from "./middleware";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-});
+import type { Metadata } from "next";
+import { Providers } from "./providers";
+import { PrimitiveMiddleware } from "./middleware";
 
 export const metadata: Metadata = {
   title: "BitPanda demo | DeFi",
@@ -27,9 +18,9 @@ export default function RootLayout({
     <html lang="en" className="h-screen w-screen overflow-hidden">
       <body className="flex items-center justify-center h-full w-full bg-black">
         <div className="h-[700px] w-[400px]  rounded-xl shadow-lg overflow-hidden outline  outline-1 outline-zinc-500">
-          <CryptoProvider>
+          <Providers>
             <PrimitiveMiddleware>{children}</PrimitiveMiddleware>
-          </CryptoProvider>
+          </Providers>
         </div>
       </body>
     </html>

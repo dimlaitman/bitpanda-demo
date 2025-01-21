@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { LoginButton } from "./components/crypto-connect-button";
+import { CryptoButton } from "./components/crypto-button";
 
 export default function Index() {
   return (
@@ -8,7 +8,7 @@ export default function Index() {
         <Logo />
         <Header />
         <Description />
-        <LoginButton />
+        <CryptoButton />
         <Footer />
       </div>
     </main>

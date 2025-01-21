@@ -1,0 +1,14 @@
+{
+  "extends": "@bitpanda-demo/typescript-config/react-library.json",
+  "compilerOptions": {
+    "module": "Node16",
+    "outDir": "dist",
+    "allowImportingTsExtensions": true,
+    "emitDeclarationOnly": true,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "strict": true
+  },
+  "include": ["*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
