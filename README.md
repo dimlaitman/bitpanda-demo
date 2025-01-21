@@ -33,14 +33,14 @@
 
 ## Description
 
-I have chosen a Turborepo monorepo structure to showcase my skills in a modern tech stack that includes both backend and frontend technologies.
+I have chosen a Turborepo monorepo structure for its ability to seamlessly transfer necessary types through the ts-rest contract, providing a convenient development flow. This modern tech stack encompasses both backend and frontend technologies.
 
 ### Backend
 
-- **NestJS**: Progressive Node.js framework that enables the development of efficient and scalable server-side applications.
-- **Ts-rest**: Type-safe REST API server that enhances the reliability of API interactions.
+- **NestJS**: A progressive Node.js framework that facilitates the development of efficient and scalable server-side applications.
+- **Ts-rest**: A type-safe REST API server that enhances the reliability of API interactions.
 - **Solana 2.0 SDK**: A powerful tool for blockchain interactions, specifically designed for the Solana ecosystem.
-- **Swagger**: Tool for API documentation that allows for easy visualization and testing of API endpoints.
+- **Swagger**: API documentation tool available at [Swagger Documentation](https://api.bitpanda.laitman.at/docs/) for easy visualization and testing of API endpoints.
 
 ### Frontend
 
@@ -48,6 +48,6 @@ I have chosen a Turborepo monorepo structure to showcase my skills in a modern t
 - **Ts-rest**: Utilized client-side again on the frontend for seamless and type-safe API calls.
 - **Privy SDK**: A solution for secure user authentication and data privacy, essential for modern web applications.
 
-This stack was carefully selected to ensure high performance, security, and maintainability, making it ideal for building scalable applications that meet the demands of today's users.
+### Installation and Development
 
-<!-- End of Selection -->
+To get started, run the following commands:
