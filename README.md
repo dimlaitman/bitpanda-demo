@@ -16,7 +16,7 @@
 
 <p align="center">This is a test assignment for Bitpanda, showcasing my skills in a modern tech stack that includes both backend and frontend technologies.</p>
 
-<!-- Start of Selection -->
+<a href="https://bitpanda.laitman.at"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/1-main.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/2-connect.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/3-sign.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/4-data.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/5-disconnect.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;"></a>
 
 ## Description
 
