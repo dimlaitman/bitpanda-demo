@@ -16,7 +16,20 @@
 
 <p align="center">This is a test assignment for Bitpanda, showcasing my skills in a modern tech stack that includes both backend and frontend technologies.</p>
 
-<a href="https://bitpanda.laitman.at"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/1-main.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/2-connect.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/3-sign.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/4-data.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;margin-right:10px;"><img src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/5-disconnect.png?raw=true" alt="Bitpanda Demo" height="300" style="display:inline-block;"></a>
+<a  href="https://bitpanda.laitman.at">
+<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/1-main.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
+<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/2-connect.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
+</a>
+
+<a  href="https://bitpanda.laitman.at">
+<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/3-sign.png?raw=true"  alt="Bitpanda Demo"  width="600"  style="display:inline-block;margin-right:10px;">
+</a>
+
+<a  href="https://bitpanda.laitman.at">
+<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/4-data.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
+<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/5-disconnect.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;">
+
+</a>
 
 ## Description
 
@@ -24,10 +37,10 @@ I have chosen a Turborepo monorepo structure to showcase my skills in a modern t
 
 ### Backend
 
-- **NestJS**: A progressive Node.js framework that enables the development of efficient and scalable server-side applications.
-- **Ts-rest**: A type-safe REST API server that enhances the reliability of API interactions.
-- **QuickNode Solana 2.0 SDK**: A powerful tool for blockchain interactions, specifically designed for the Solana ecosystem.
-- **Swagger**: A powerful tool for API documentation that allows for easy visualization and testing of API endpoints.
+- **NestJS**: Progressive Node.js framework that enables the development of efficient and scalable server-side applications.
+- **Ts-rest**: Type-safe REST API server that enhances the reliability of API interactions.
+- **Solana 2.0 SDK**: A powerful tool for blockchain interactions, specifically designed for the Solana ecosystem.
+- **Swagger**: Tool for API documentation that allows for easy visualization and testing of API endpoints.
 
 ### Frontend
 
