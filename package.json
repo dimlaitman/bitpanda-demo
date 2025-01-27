@@ -10,7 +10,7 @@
     "start:dev:api": "turbo dev --filter=api"
   },
   "devDependencies": {
-    "prettier": "^3.2.5",
+    "prettier": "^3.4.2",
     "turbo": "^2.3.4",
     "typescript": "5.5.4"
   },

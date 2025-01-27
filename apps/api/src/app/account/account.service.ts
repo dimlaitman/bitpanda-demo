@@ -4,7 +4,7 @@ import { createSolanaRpc, address } from '@solana/web3.js';
 @Injectable()
 export class AccountService {
   private solanaRpc = createSolanaRpc(
-    'https://fragrant-boldest-tent.solana-mainnet.quiknode.pro/ef75c9532790eb964cf440cbd1408127212eaee3',
+    'https://solana-mainnet.g.alchemy.com/v2/IANcuBWBzVple730F7PQs3q3Zx0Sm6cA',
   );
 
   async getBalance(ownerAddress: string): Promise<string> {
