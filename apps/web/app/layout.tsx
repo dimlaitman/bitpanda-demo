@@ -6,8 +6,8 @@ import { PrimitiveMiddleware } from "./middleware";
 import { Links } from "./components/footer-links";
 
 export const metadata: Metadata = {
-  title: "BitPanda demo | DeFi",
-  description: "BitPanda demo | DeFi",
+  title: "solpanda demo | DeFi",
+  description: "solpanda demo | DeFi",
 };
 
 export default function RootLayout({

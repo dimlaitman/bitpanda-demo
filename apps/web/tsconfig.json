@@ -1,5 +1,5 @@
 {
-  "extends": "@bitpanda-demo/typescript-config/nextjs.json",
+  "extends": "@solpanda/typescript-config/nextjs.json",
   "compilerOptions": {
     "plugins": [
       {

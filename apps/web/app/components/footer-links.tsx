@@ -11,7 +11,7 @@ export const Links = () => (
       API Docs
     </Link>
     <Link
-      href="https://github.com/dimlaitman/bitpanda-demo"
+      href="https://github.com/dimlaitman/solpanda"
       className="bg-[#27d17f] hover:bg-[#146940]/90 text-black px-4 py-2 font-semibold rounded-lg text-center"
       target="_blank"
       rel="noopener noreferrer"

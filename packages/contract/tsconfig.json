@@ -1,5 +1,5 @@
 {
-  "extends": "@bitpanda-demo/typescript-config/react-library.json",
+  "extends": "@solpanda/typescript-config/react-library.json",
   "compilerOptions": {
     "module": "Node16",
     "outDir": "dist",

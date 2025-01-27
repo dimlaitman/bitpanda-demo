@@ -1,5 +1,5 @@
 import { initTsrReactQuery } from "@ts-rest/react-query/v5";
-import { contract } from "@bitpanda-demo/contracts";
+import { contract } from "@solpanda/contracts";
 
 export const tsr = initTsrReactQuery(contract, {
   baseUrl: process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080",

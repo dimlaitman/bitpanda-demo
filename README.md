@@ -14,20 +14,20 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-<p align="center">This is a test assignment for Bitpanda, showcasing my skills in a modern tech stack that includes both backend and frontend technologies.</p>
+<p align="center">This is a test assignment for BitPanda, showcasing my skills in a modern tech stack that includes both backend and frontend technologies.</p>
 
-<a  href="https://bitpanda.laitman.at">
-<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/1-main.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
-<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/2-connect.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
+<a  href="https://solpanda.laitman.at">
+<img  src="https://github.com/dimlaitman/solpanda/blob/main/app-flow/1-main.png?raw=true"  alt="solpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
+<img  src="https://github.com/dimlaitman/solpanda/blob/main/app-flow/2-connect.png?raw=true"  alt="solpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
 </a>
 
-<a  href="https://bitpanda.laitman.at">
-<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/3-sign.png?raw=true"  alt="Bitpanda Demo"  width="600"  style="display:inline-block;margin-right:10px;">
+<a  href="https://solpanda.laitman.at">
+<img  src="https://github.com/dimlaitman/solpanda/blob/main/app-flow/3-sign.png?raw=true"  alt="solpanda Demo"  width="600"  style="display:inline-block;margin-right:10px;">
 </a>
 
-<a  href="https://bitpanda.laitman.at">
-<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/4-data.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
-<img  src="https://github.com/dimlaitman/bitpanda-demo/blob/main/app-flow/5-disconnect.png?raw=true"  alt="Bitpanda Demo"  width="300"  style="display:inline-block;">
+<a  href="https://solpanda.laitman.at">
+<img  src="https://github.com/dimlaitman/solpanda/blob/main/app-flow/4-data.png?raw=true"  alt="solpanda Demo"  width="300"  style="display:inline-block;margin-right:10px;">
+<img  src="https://github.com/dimlaitman/solpanda/blob/main/app-flow/5-disconnect.png?raw=true"  alt="solpanda Demo"  width="300"  style="display:inline-block;">
 
 </a>
 
@@ -40,7 +40,7 @@ I have chosen a Turborepo monorepo structure for its ability to seamlessly trans
 - **NestJS**: A progressive Node.js framework that facilitates the development of efficient and scalable server-side applications.
 - **Ts-rest**: A type-safe REST API server that enhances the reliability of API interactions.
 - **Solana 2.0 SDK**: A powerful tool for blockchain interactions, specifically designed for the Solana ecosystem.
-- **Swagger**: API documentation tool available at [Swagger Documentation](https://api.bitpanda.laitman.at/docs/) for easy visualization and testing of API endpoints.
+- **Swagger**: API documentation tool available at [Swagger Documentation](https://api.solpanda.laitman.at/docs/) for easy visualization and testing of API endpoints.
 
 ### Frontend
 
@@ -52,8 +52,8 @@ I have chosen a Turborepo monorepo structure for its ability to seamlessly trans
 
 To get started, clone the repository and install the dependencies by running the following commands in your terminal:
 
-1. `git clone https://github.com/dimlaitman/bitpanda-demo`
-2. `cd bitpanda-demo`
+1. `git clone https://github.com/dimlaitman/solpanda`
+2. `cd solpanda`
 3. `pnpm install`
 
 After the installation is complete, you can start the development server with:

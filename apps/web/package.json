@@ -20,9 +20,9 @@
     "@solana/web3.js": "1.98.0"
   },
   "devDependencies": {
-    "@bitpanda-demo/eslint-config": "workspace:*",
-    "@bitpanda-demo/typescript-config": "workspace:*",
-    "@bitpanda-demo/contracts": "workspace:*",
+    "@solpanda/eslint-config": "workspace:*",
+    "@solpanda/typescript-config": "workspace:*",
+    "@solpanda/contracts": "workspace:*",
     "@types/node": "^20",
     "@types/react": "18.3.1",
     "@types/react-dom": "18.3.0",

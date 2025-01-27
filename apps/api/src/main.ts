@@ -3,7 +3,7 @@ import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app/app.module';
 import { SwaggerModule } from '@nestjs/swagger';
 import { generateOpenApi } from '@ts-rest/open-api';
-import { contract } from '@bitpanda-demo/contracts';
+import { contract } from '@solpanda/contracts';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
@@ -14,7 +14,7 @@ async function bootstrap() {
 
   const document = generateOpenApi(contract, {
     info: {
-      title: 'Bitpanda Demo | API',
+      title: 'solpanda Demo | API',
       version: '0.0.1',
     },
   });

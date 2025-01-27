@@ -1,7 +1,7 @@
 import { Controller } from '@nestjs/common';
 import { tsRestHandler, TsRestHandler } from '@ts-rest/nest';
 import { AccountService } from './account.service';
-import { contract } from '@bitpanda-demo/contracts';
+import { contract } from '@solpanda/contracts';
 
 @Controller()
 export class AccountController {
